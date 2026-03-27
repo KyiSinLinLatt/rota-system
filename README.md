@@ -65,4 +65,4 @@ Employees are assigned to shifts based on:
 
 ## 📄 Project Report  
 This report provides a detailed explanation of the system design, implementation, and evaluation.  
-[View Report](https://drive.google.com/drive/folders/1PThX9hqQcDbbDlb1qaT3tV05aGpspecK/preview)
+[View Report](https://drive.google.com/drive/folders/1PThX9hqQcDbbDlb1qaT3tV05aGpspecK)
