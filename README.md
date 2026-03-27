@@ -65,4 +65,4 @@ Employees are assigned to shifts based on:
 
 ## 📄 Project Report  
 This report provides a detailed explanation of the system design, implementation, and evaluation.  
-[View Report]([url](https://github.com/user-attachments/files/26304764/Final.Project.Report.pdf))
+[View Report](https://github.com/KyiSinLinLatt/rota-system/releases/tag/v1.0)
