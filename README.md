@@ -1,3 +1,5 @@
+# Employee-Centric Rota Scheduling System
+
 🧠 Overview
 
 This project presents an employee-centric rota scheduling system designed for small businesses and charities that rely on part-time and flexible staff. The system automates shift allocation based on employee availability, business requirements, and predefined constraints.
