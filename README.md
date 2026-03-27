@@ -61,3 +61,8 @@ Employees are assigned to shifts based on:
 	•	Schedule comparison functionality
 	•	Improved validation and error handling
 	•	Configurable constraints for broader use cases
+⸻
+
+## 📄 Project Report  
+This report provides a detailed explanation of the system design, implementation, and evaluation.  
+[View Report]([url](https://github.com/user-attachments/files/26304764/Final.Project.Report.pdf))
